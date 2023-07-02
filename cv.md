@@ -1,7 +1,4 @@
 Yerkebulan Maksutov
-
-07/05/1998
-
 Beginner JavaScript developer
 
 erkebulan.maksutov@gmail.com
